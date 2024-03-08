@@ -2,7 +2,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-ruta = "https://www.paginasamarillas.es/a/empresas-de-informatica/valencia/valencia/"
+ruta = ""
 
 respuesta = requests.get(ruta)
 print(respuesta)
