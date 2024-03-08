@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg8737"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="maquinas virtuales.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview8739"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.5625561"
+     inkscape:cx="315.50867"
+     inkscape:cy="529.26099"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs8734" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.964999;stroke-linecap:round;stroke-linejoin:round"
+       id="rect11094"
+       width="72.318398"
+       height="23.946489"
+       x="14.128428"
+       y="102.89805"
+       ry="3.4712086" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.96161px;text-align:end;text-anchor:end;fill:#ffffff;stroke:#000000;stroke-width:2.11588;stroke-linecap:round;stroke-linejoin:round"
+       x="59.571201"
+       y="113.03849"
+       id="text11098"><tspan
+         sodipodi:role="line"
+         id="tspan11096"
+         style="fill:#000000;stroke:none;stroke-width:2.1159"
+         x="59.571201"
+         y="113.03849">tu programa</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.964999;stroke-linecap:round;stroke-linejoin:round"
+       id="rect10322"
+       width="72.318398"
+       height="23.946489"
+       x="14.128428"
+       y="121.01607"
+       ry="3.4712086" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.80865px;text-align:end;text-anchor:end;fill:#ffffff;stroke:#000000;stroke-width:1.46152;stroke-linecap:round;stroke-linejoin:round"
+       x="77.684151"
+       y="130.41502"
+       id="text10326"><tspan
+         sodipodi:role="line"
+         id="tspan10324"
+         style="fill:#000000;stroke:none;stroke-width:1.46153"
+         x="77.684151"
+         y="130.41502">intérprete/máquina virtual</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.964999;stroke-linecap:round;stroke-linejoin:round"
+       id="rect10310"
+       width="72.318398"
+       height="23.946489"
+       x="14.128428"
+       y="138.79543"
+       ry="3.4712086" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.67995px;text-align:end;text-anchor:end;fill:#ffffff;stroke:#000000;stroke-width:2.63815;stroke-linecap:round;stroke-linejoin:round"
+       x="53.755135"
+       y="150.14383"
+       id="text10314"><tspan
+         sodipodi:role="line"
+         id="tspan10312"
+         style="fill:#000000;stroke:none;stroke-width:2.63816"
+         x="53.755135"
+         y="150.14383">Windows</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.964999;stroke-linecap:round;stroke-linejoin:round"
+       id="rect10316"
+       width="72.318398"
+       height="23.946489"
+       x="14.128428"
+       y="157.08278"
+       ry="3.4712086" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.67995px;text-align:end;text-anchor:end;fill:#ffffff;stroke:#000000;stroke-width:2.63815;stroke-linecap:round;stroke-linejoin:round"
+       x="57.480335"
+       y="166.90724"
+       id="text10320"><tspan
+         sodipodi:role="line"
+         id="tspan10318"
+         style="fill:#000000;stroke:none;stroke-width:2.63816"
+         x="57.480335"
+         y="166.90724">Hardware</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.964999;stroke-linecap:round;stroke-linejoin:round"
+       id="rect11100"
+       width="72.318398"
+       height="23.946489"
+       x="105.73447"
+       y="102.89805"
+       ry="3.4712086" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.96161px;text-align:end;text-anchor:end;fill:#ffffff;stroke:#000000;stroke-width:2.11588;stroke-linecap:round;stroke-linejoin:round"
+       x="151.17725"
+       y="113.03849"
+       id="text11104"><tspan
+         sodipodi:role="line"
+         id="tspan11102"
+         style="fill:#000000;stroke:none;stroke-width:2.1159"
+         x="151.17725"
+         y="113.03849">tu programa</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.964999;stroke-linecap:round;stroke-linejoin:round"
+       id="rect11106"
+       width="72.318398"
+       height="23.946489"
+       x="105.73447"
+       y="121.01607"
+       ry="3.4712086" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.80865px;text-align:end;text-anchor:end;fill:#ffffff;stroke:#000000;stroke-width:1.46152;stroke-linecap:round;stroke-linejoin:round"
+       x="169.29019"
+       y="130.41502"
+       id="text11110"><tspan
+         sodipodi:role="line"
+         id="tspan11108"
+         style="fill:#000000;stroke:none;stroke-width:1.46153"
+         x="169.29019"
+         y="130.41502">intérprete/máquina virtual</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.964999;stroke-linecap:round;stroke-linejoin:round"
+       id="rect11112"
+       width="72.318398"
+       height="23.946489"
+       x="105.73447"
+       y="138.79543"
+       ry="3.4712086" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.67995px;text-align:end;text-anchor:end;fill:#ffffff;stroke:#000000;stroke-width:2.63815;stroke-linecap:round;stroke-linejoin:round"
+       x="136.72548"
+       y="150.14383"
+       id="text11116"><tspan
+         sodipodi:role="line"
+         id="tspan11114"
+         style="fill:#000000;stroke:none;stroke-width:2.63816"
+         x="136.72548"
+         y="150.14383">macOS</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.964999;stroke-linecap:round;stroke-linejoin:round"
+       id="rect11118"
+       width="72.318398"
+       height="23.946489"
+       x="105.73447"
+       y="157.08278"
+       ry="3.4712086" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.67995px;text-align:end;text-anchor:end;fill:#ffffff;stroke:#000000;stroke-width:2.63815;stroke-linecap:round;stroke-linejoin:round"
+       x="149.08638"
+       y="166.90724"
+       id="text11122"><tspan
+         sodipodi:role="line"
+         id="tspan11120"
+         style="fill:#000000;stroke:none;stroke-width:2.63816"
+         x="149.08638"
+         y="166.90724">Hardware</tspan></text>
+  </g>
+</svg>
