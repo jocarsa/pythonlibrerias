@@ -7,6 +7,8 @@ import tkinter as tk
 def extraer(prefijo,url):
     global widgettexto
     print(url)
+    widgettexto.insert(tk.END, url + "\n")
+    widgettexto.update_idletasks()  # Update the GUI
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
     }
@@ -19,8 +21,9 @@ def extraer(prefijo,url):
         links.append(enlace.get('href'))
 
     for link in links:
+        print(link)
         try:
-            widgettexto.insert(tk.END, "ok pagina" + "\n")
+            widgettexto.insert(tk.END, link + "\n")
             widgettexto.update_idletasks()  # Update the GUI
             ruta2 = link
             headers2 = {
@@ -38,16 +41,20 @@ def extraer(prefijo,url):
         except:
             widgettexto.insert(tk.END, "ok pagina" + "\n")
             widgettexto.update_idletasks()  # Update the GUI
-            
-    paginacion = xml.find('ul', class_='pagination')  
-    elementos = paginacion.find_all('li') 
-    ultimo = elementos[-2]
-    enlace = ultimo.find('a')
-    nuevaruta = enlace['href']
-    widgettexto.insert(tk.END, "vamos a por la siguiente pagina" + "\n")
-    widgettexto.update_idletasks()  # Update the GUI
-    time.sleep(4)
-    extraer(nuevaruta)
+    nuevatura = url
+    try:        
+        paginacion = xml.find('ul', class_='pagination')  
+        elementos = paginacion.find_all('li') 
+        ultimo = elementos[-2]
+        enlace = ultimo.find('a')
+        nuevaruta = enlace['href']
+        widgettexto.insert(tk.END, "vamos a por la siguiente pagina" + "\n")
+        widgettexto.update_idletasks()  # Update the GUI
+        time.sleep(4)
+        
+    except:
+        print("error en la parte 2")
+    extraer(prefijo,nuevaruta)
 
 
 def comienza():
